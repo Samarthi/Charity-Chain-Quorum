@@ -1,4 +1,7 @@
 # Charity-Chain-Quorum
+
+A blockchain based platform that tracks donations given to charitable organisations and in turn stores their achievements. Can withold funds in an escrow until objectives are met.  
+Currently not hosted. 
 Needs Quorum, ethereum installed. 
 Steps to run:
 1. Download repo.
